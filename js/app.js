@@ -68,4 +68,4 @@ search.addEventListener("input", function(){
             element.style.display = "none";
         }
     })
-})
+});
